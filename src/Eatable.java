@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Eatable {
+public interface Eatable {
+    void eat();
 }
